@@ -27,7 +27,7 @@ let package = Package(
         .binaryTarget(
             name: "BNBSdkApi",
             url: "None",
-            checksum: "6d194abc3a61a797b3134b7937548dc83b87470d42a8acefb234bc75d2be7c6c"
+            checksum: "cf43ae0d6c286977ba4966a7362e7e39441a663d37cb8d045a38ddfbb701e6ac"
         ),
         .target(
             name: "BNBSdkApi_BNBSdkCore",
