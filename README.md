@@ -4,7 +4,7 @@
 
 #### About packages see [HERE](https://docs.banuba.com/face-ar-sdk-v1/ios/ios_packages)
 
-#### Package version: **1.14.1-170-g93323bc96**
+#### Package version: **1.14.1-173-gec24d1c86**
 
 #### **[Banuba homepage](https://banuba.com)**
 
