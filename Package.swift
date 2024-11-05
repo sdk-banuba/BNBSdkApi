@@ -1,7 +1,7 @@
 // swift-tools-version:5.3
 import PackageDescription
 
-let bnbPackageVersion: Version = "1.14.1-174-gec051bdc7"
+let bnbPackageVersion: Version = "1.14.1-177-gd98bf09f0"
 
 let package = Package(
     name: "BNBSdkApi",
@@ -26,8 +26,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "BNBSdkApi",
-            url: "https://d2cm7wtcqqw29.cloudfront.net/1.14.1-174-gec051bdc7/BNBSdkApi.zip",
-            checksum: "61e8c1dbf83e9c55b2e15aba1ef4492ab2662f608a33c6016280b15f4f6a85fc"
+            url: "https://d2cm7wtcqqw29.cloudfront.net/1.14.1-177-gd98bf09f0/BNBSdkApi.zip",
+            checksum: "081ffb094b5434913876c46a8bc02fcad4cecd82e8a706c093c80553f7ea468c"
         ),
         .target(
             name: "BNBSdkApi_BNBSdkCore",
