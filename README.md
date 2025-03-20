@@ -1,10 +1,10 @@
-[![](https://www.banuba.com/hubfs/Banuba_November2018/Images/Banuba%20SDK.png)](https://docs.banuba.com/face-ar-sdk-v1/ios/ios_overview)
+[![](https://www.banuba.com/hubfs/Banuba_November2018/Images/Banuba%20SDK.png)](https://docs.banuba.com/far-sdk/tutorials/development/basic_integration?platform=ios)
 
 ## Banuba Sdk BNBSdkApi swift package
 
-#### About packages see [HERE](https://docs.banuba.com/face-ar-sdk-v1/ios/ios_packages)
+#### About packages see [HERE](https://docs.banuba.com/far-sdk/tutorials/development/installation?platform=ios)
 
-#### Package version: **1.14.1-271-g70b8136591**
+#### Package version: **1.17.0**
 
 #### **[Banuba homepage](https://banuba.com)**
 
