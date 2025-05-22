@@ -4,7 +4,7 @@
 
 #### About packages see [HERE](https://docs.banuba.com/far-sdk/tutorials/development/installation?platform=ios)
 
-#### Package version: **1.17.1-32-gc91d258b34**
+#### Package version: **1.17.2**
 
 #### **[Banuba homepage](https://banuba.com)**
 
